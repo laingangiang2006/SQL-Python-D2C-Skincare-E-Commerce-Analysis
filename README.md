@@ -1,6 +1,8 @@
 <img width="6010" height="1870" alt="438552_478d jpg" src="https://desarrolladoresweb.org/wp-content/uploads/MySQL-Que-es-como-funciona-y-guia-completa.jpg" />
 
-# D2C Skincare E-Commerce Analytics
+# D2C Skincare E-Commerce Analysis
+
+## Dataset Overview
 
 This synthetic dataset simulates the operations of a Direct-to-Consumer (D2C) skincare e-commerce business. It is designed specifically for SQL, Power BI, Tableau, Python, and business analytics projects.
 
