@@ -38,4 +38,6 @@ Datasets are taken from [Kaggle - D2C Skincare E-Commerce Analytics](https://www
 
 ## License
 
-This project is for educational purposes. Dataset credit: [Kaushal Chanchadiya on Kaggle](https://www.kaggle.com/datasets/kaushalvyas16/d2c-skincare-e-commerce-analytics-dataset).
+This project is for educational purposes. 
+
+Dataset credit: [Kaushal Chanchadiya on Kaggle](https://www.kaggle.com/datasets/kaushalvyas16/d2c-skincare-e-commerce-analytics-dataset).
