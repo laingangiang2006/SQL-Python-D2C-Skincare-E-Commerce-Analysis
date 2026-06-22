@@ -36,7 +36,7 @@ The datasets are uploaded by [Kaushal Chanchadiya on Kaggle](https://www.kaggle.
 
 ## Relationship Diagram
 
-
+<img width="1189" height="1683" alt="image" src="https://github.com/user-attachments/assets/451d1975-44a0-450c-bd19-220e29dcd971" />
 
 ---
 
