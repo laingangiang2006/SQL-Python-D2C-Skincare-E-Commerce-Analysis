@@ -38,6 +38,8 @@ The datasets are uploaded by [Kaushal Chanchadiya on Kaggle](https://www.kaggle.
 
 <img width="1189" height="1683" alt="image" src="https://github.com/user-attachments/assets/451d1975-44a0-450c-bd19-220e29dcd971" />
 
+> Alternatively, you can view the diagram by downloading either mwd or pdf file in this [Directory](https://github.com/laingangiang2006/D2C-Skincare-E-Commerce-Analytics/tree/main/Relationship%20Diagram).
+
 ---
 
 ## Tools
