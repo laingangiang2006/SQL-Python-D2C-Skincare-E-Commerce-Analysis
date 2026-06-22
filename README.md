@@ -34,6 +34,12 @@ The datasets are uploaded by [Kaushal Chanchadiya on Kaggle](https://www.kaggle.
 
 ---
 
+## Relationship Diagram
+
+
+
+---
+
 ## Tools
 
 | Tool | Purpose |
