@@ -15,7 +15,7 @@ The dataset contains relational business data covering :
 - reviews
 - returns
 
-Datasets are taken from [Kaggle - D2C Skincare E-Commerce Analytics](https://www.kaggle.com/datasets/kaushalvyas16/d2c-skincare-e-commerce-analytics-dataset)
+The datasets are uploaded by [Kaushal Chanchadiya on Kaggle](https://www.kaggle.com/datasets/kaushalvyas16/d2c-skincare-e-commerce-analytics-dataset).
 
 ---
 
