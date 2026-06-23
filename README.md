@@ -21,6 +21,16 @@ The dataset contains relational business data covering:
 
 The datasets are uploaded by [Kaushal Chanchadiya on Kaggle](https://www.kaggle.com/datasets/kaushalvyas16/d2c-skincare-e-commerce-analytics-dataset).
 
+
+---
+
+## Infographic
+
+This is my storytelling infographic, created on Canva, after querying by SQL, and visualize charts by Python.
+
+<img width="1920" height="1080" alt="D2C Skincare E-Commerce Analysis" src="https://github.com/user-attachments/assets/a81d759c-2caa-4353-93b7-59187da15cf2" />
+
+
 ---
 
 ## Repository Structure
