@@ -6,6 +6,8 @@ The core question needed to be answer in this project is:
 
 > How is this D2C skincare business performing across customers, products, sales, and returns, and where are the opportunities to improve?
 
+---
+
 ## Dataset Overview
 
 This synthetic dataset simulates the operations of a Direct-to-Consumer (D2C) skincare e-commerce business. It is designed specifically for SQL, Power BI, Tableau, Python, and business analytics projects.
