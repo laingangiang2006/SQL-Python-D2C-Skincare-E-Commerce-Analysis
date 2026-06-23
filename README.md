@@ -24,12 +24,21 @@ The datasets are uploaded by [Kaushal Chanchadiya on Kaggle](https://www.kaggle.
 
 ---
 
+## Relationship Diagram
+
+<img width="1189" height="1683" alt="image" src="https://github.com/user-attachments/assets/451d1975-44a0-450c-bd19-220e29dcd971" />
+
+> Alternatively, you can view the diagram by downloading either mwb or pdf file in this [Directory](https://github.com/laingangiang2006/D2C-Skincare-E-Commerce-Analytics/tree/main/Relationship%20Diagram).
+
+---
+
 ## Infographic
 
 This is my storytelling infographic, created on Canva, after querying by SQL, and visualize charts by Python.
 
 <img width="1920" height="1080" alt="D2C Skincare E-Commerce Analysis" src="https://github.com/user-attachments/assets/a81d759c-2caa-4353-93b7-59187da15cf2" />
 
+> Alternatively, you can view the diagram by downloading this pđf [infographic](https://github.com/laingangiang2006/SQL-D2C-Skincare-E-Commerce-Analysis/blob/main/D2C%20Skincare%20E-Commerce%20Analysis%20Infographic.pdf).
 
 ---
 
@@ -44,15 +53,7 @@ This is my storytelling infographic, created on Canva, after querying by SQL, an
 | [CSV Files](https://github.com/laingangiang2006/SQL-D2C-Skincare-E-Commerce-Analysis/tree/main/CSV%20Files) | CSV files exported from MySQL after I queried data |
 | [Python Notebook](https://github.com/laingangiang2006/SQL-D2C-Skincare-E-Commerce-Analysis/blob/main/Python%20Notebook.py) | Python Notebook where I created charts for SQL queries |
 | [Charts](https://github.com/laingangiang2006/SQL-D2C-Skincare-E-Commerce-Analysis/tree/main/Charts) | Charts created by Python |
-| [Infographic](https://github.com/laingangiang2006/SQL-D2C-Skincare-E-Commerce-Analysis/blob/main/D2C%20Skincare%20E-Commerce%20Analysis%20Infographic.pdf) | D2C Skincare E-Commerce Analysis Infographic in pdf file |
-
----
-
-## Relationship Diagram
-
-<img width="1189" height="1683" alt="image" src="https://github.com/user-attachments/assets/451d1975-44a0-450c-bd19-220e29dcd971" />
-
-> Alternatively, you can view the diagram by downloading either mwb or pdf file in this [Directory](https://github.com/laingangiang2006/D2C-Skincare-E-Commerce-Analytics/tree/main/Relationship%20Diagram).
+| [Infographic](https://github.com/laingangiang2006/SQL-D2C-Skincare-E-Commerce-Analysis/blob/main/D2C%20Skincare%20E-Commerce%20Analysis%20Infographic.pdf) | D2C Skincare E-Commerce Analysis Infographic (pdf file) |
 
 ---
 
