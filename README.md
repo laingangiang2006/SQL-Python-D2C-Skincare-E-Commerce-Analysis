@@ -10,7 +10,7 @@ The core question needed to be answer in this project is:
 
 This synthetic dataset simulates the operations of a Direct-to-Consumer (D2C) skincare e-commerce business. It is designed specifically for SQL, Power BI, Tableau, Python, and business analytics projects.
 
-The dataset contains relational business data covering :
+The dataset contains relational business data covering:
 
 - customers
 - products
