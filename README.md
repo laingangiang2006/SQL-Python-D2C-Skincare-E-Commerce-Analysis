@@ -65,6 +65,7 @@ This is my storytelling infographic, created on Canva, after querying by SQL, an
 | **SQL, MySQL** | Relational database queries + Relationship diagram creation |
 | **VSCode** | Text edittor |
 | **Python and Python Libraries (Pandas, Matplotlib, Seaborn)** | Data Analysis, chart creation |
+| **Canva** | Chart visualization and infographic creation |
 
 ---
 
