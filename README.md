@@ -60,7 +60,7 @@ This is my storytelling infographic, created on Canva, after querying by SQL, an
 
 ## Tools
 
-| Tool | Purpose |
+| Tool/Language | Purpose |
 |------|---------|
 | MySQL | Relational database queries + Relationship diagram creation |
 | VSCode | Text edittor |
