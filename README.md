@@ -58,7 +58,7 @@ This is my storytelling infographic, created on Canva, after querying by SQL, an
 
 ---
 
-## Tools
+## Tools & Languages
 
 | Tool/Language | Purpose |
 |------|---------|
