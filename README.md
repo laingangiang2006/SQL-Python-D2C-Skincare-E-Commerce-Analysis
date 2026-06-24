@@ -53,7 +53,7 @@ This is my storytelling infographic, created on Canva, after querying by SQL, an
 | [SQL Queries](https://github.com/laingangiang2006/D2C-Skincare-E-Commerce-Analytics/blob/main/Skincare_Analysis.sql) | SQL queries |
 | [CSV Files](https://github.com/laingangiang2006/SQL-D2C-Skincare-E-Commerce-Analysis/tree/main/CSV%20Files) | CSV files exported from MySQL after I queried data |
 | [Python Notebook](https://github.com/laingangiang2006/SQL-D2C-Skincare-E-Commerce-Analysis/blob/main/Python%20Notebook.py) | Python Notebook where I created charts for SQL queries |
-| [Charts](https://github.com/laingangiang2006/SQL-D2C-Skincare-E-Commerce-Analysis/tree/main/Charts) | Charts created by Python |
+| [Figures](https://github.com/laingangiang2006/SQL-Python-D2C-Skincare-E-Commerce-Analysis/tree/main/Figures) | Figures created by Python |
 | [Infographic](https://github.com/laingangiang2006/SQL-D2C-Skincare-E-Commerce-Analysis/blob/main/D2C%20Skincare%20E-Commerce%20Analysis%20Infographic.pdf) | D2C Skincare E-Commerce Analysis Infographic (pdf file) |
 
 ---
