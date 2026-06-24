@@ -1,5 +1,3 @@
-<img width="6010" height="1870" alt="438552_478d jpg" src="https://desarrolladoresweb.org/wp-content/uploads/MySQL-Que-es-como-funciona-y-guia-completa.jpg" />
-
 # D2C Skincare E-Commerce Analysis
 
 The core question needed to be answer in this project is: 
