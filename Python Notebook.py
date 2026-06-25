@@ -206,7 +206,7 @@ plt.ylabel("Total Number")
 plt.show()
 
 # 15. Return rate by product
-sns.barplot(data = df14, x = "product_id", y = "total_product_count")
+sns.barplot(data = df16, x = "product_id", y = "total_product_count")
 plt.title("Return Rate by Product")
 plt.xlabel("Product ID")
 plt.ylabel("Total Number")
