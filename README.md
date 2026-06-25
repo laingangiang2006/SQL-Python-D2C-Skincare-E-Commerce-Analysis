@@ -35,9 +35,9 @@ The datasets are uploaded by [Kaushal Chanchadiya on Kaggle](https://www.kaggle.
 
 This is my storytelling infographic, created on Canva, after querying by SQL, and visualize charts by Python.
 
-<img width="1920" height="1080" alt="D2C Skincare E-Commerce Analysis" src="https://github.com/user-attachments/assets/a81d759c-2caa-4353-93b7-59187da15cf2" />
+<img width="1920" height="1080" alt="D2C Skincare E-Commerce Analysis Infographic" src="https://github.com/user-attachments/assets/9034840e-8aa4-4872-beea-0c873c96514b" />
 
-> Alternatively, you can view the diagram by downloading this pdf [infographic](https://github.com/laingangiang2006/SQL-D2C-Skincare-E-Commerce-Analysis/blob/main/D2C%20Skincare%20E-Commerce%20Analysis%20Infographic.pdf).
+> Alternatively, you can view the diagram by downloading this pdf [infographic](https://github.com/laingangiang2006/SQL-Python-D2C-Skincare-E-Commerce-Analysis/blob/main/D2C%20Skincare%20E-Commerce%20Analysis%20Infographic.png).
 
 ---
 
@@ -52,7 +52,7 @@ This is my storytelling infographic, created on Canva, after querying by SQL, an
 | [CSV Files](https://github.com/laingangiang2006/SQL-D2C-Skincare-E-Commerce-Analysis/tree/main/CSV%20Files) | CSV files exported from MySQL |
 | [Python Notebook](https://github.com/laingangiang2006/SQL-D2C-Skincare-E-Commerce-Analysis/blob/main/Python%20Notebook.py) | Python Notebook |
 | [Figures](https://github.com/laingangiang2006/SQL-Python-D2C-Skincare-E-Commerce-Analysis/tree/main/Figures) | Figures created by Python |
-| [Infographic](https://github.com/laingangiang2006/SQL-D2C-Skincare-E-Commerce-Analysis/blob/main/D2C%20Skincare%20E-Commerce%20Analysis%20Infographic.pdf) | Infographic (pdf file) |
+| [Infographic](https://github.com/laingangiang2006/SQL-Python-D2C-Skincare-E-Commerce-Analysis/blob/main/D2C%20Skincare%20E-Commerce%20Analysis%20Infographic.png) | Infographic (pdf file) |
 
 ---
 
