@@ -9,6 +9,7 @@ sns.set_theme()
 df1 = pd.read_csv("/Users/laingangiang/Downloads/CSV File/1. CUSTOMER ANALYSIS/1. Top 5 customers by total orders.csv")
 df2 = pd.read_csv("/Users/laingangiang/Downloads/CSV File/1. CUSTOMER ANALYSIS/2. Top 5 customers by total spent.csv")
 df3 = pd.read_csv("/Users/laingangiang/Downloads/CSV File/1. CUSTOMER ANALYSIS/3. Customer orders summary.csv")
+
 # 2. REVENUE ANALYSIS
 df4 = pd.read_csv("/Users/laingangiang/Downloads/CSV File/2. REVENUE ANALYSIS/4. Total order by month.csv")
 df5 = pd.read_csv("/Users/laingangiang/Downloads/CSV File/2. REVENUE ANALYSIS/5. Orders count by status.csv")
