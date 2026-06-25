@@ -159,9 +159,9 @@ plt.xlabel("Product ID")
 plt.ylabel("Total Number")
 plt.show()
 
-# 11. Affordable acne and exfoliation products - Enhanced visualization
+# 11. Affordable acne and exfoliation products
 plt.figure(figsize=(10, 6))
-sns.barplot(data=df11, x="product_id", y="cost_price", palette="Set2")
+sns.barplot(data=df11, x="product_id", y="cost_price", hue="product_id", palette="Set2")
 plt.title("Affordable Acne and Exfoliation Products - Price Comparison")
 plt.xlabel("Product ID")
 plt.ylabel("Cost Price")
