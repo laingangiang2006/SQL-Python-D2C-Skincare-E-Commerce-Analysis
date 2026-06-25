@@ -37,7 +37,7 @@ This is my storytelling infographic, created on Canva, after querying by SQL, an
 
 <img width="1920" height="1080" alt="D2C Skincare E-Commerce Analysis Infographic" src="https://github.com/user-attachments/assets/9034840e-8aa4-4872-beea-0c873c96514b" />
 
-> Alternatively, you can view the diagram by downloading this pdf [infographic](https://github.com/laingangiang2006/SQL-Python-D2C-Skincare-E-Commerce-Analysis/blob/main/D2C%20Skincare%20E-Commerce%20Analysis%20Infographic.png).
+> Alternatively, you can view the diagram by downloading this pdf [infographic](https://github.com/laingangiang2006/SQL-Python-D2C-Skincare-E-Commerce-Analysis/blob/main/D2C%20Skincare%20E-Commerce%20Analysis%20Infographic.png) or viewing in [Canva](https://canva.link/7nsyfusoz4vfptc).
 
 ---
 
