@@ -178,7 +178,7 @@ plt.ylabel("Review Count")
 plt.tight_layout()
 plt.show()
 
-# 12. Top 5 products by average rating
+# 13. Top 5 products by average rating
 categories = df13["product_id"]
 values = df13["avg_rating"]
 
@@ -188,7 +188,7 @@ plt.xlabel("Average Rating")
 plt.ylabel("Product ID")
 plt.show()
 
-# 13. Average rating by category
+# 14. Average rating by category
 categories = df14["category"]
 values = df14["avg_rating"]
 
