@@ -198,21 +198,21 @@ plt.xlabel("Average Rating")
 plt.ylabel("Category")
 plt.show()
 
-# 14. 5 most returned products
+# 15. 5 most returned products
 sns.barplot(data = df15, x = "product_id", y = "total_orders")
 plt.title("5 Most Returned Products")
 plt.xlabel("Product ID")
 plt.ylabel("Total Number")
 plt.show()
 
-# 15. Return rate by product
-sns.barplot(data = df16, x = "product_id", y = "total_product_count")
+# 16. Return rate by product
+sns.barplot(data = df16, x = "product_id", y = "product_count")
 plt.title("Return Rate by Product")
 plt.xlabel("Product ID")
 plt.ylabel("Total Number")
 plt.show()
 
-# 16. Most common return reasons
+# 17. Most common return reasons
 category = df17["return_reason"]
 value = df17["order_count"]
 plt.barh(category, value)
@@ -221,7 +221,7 @@ plt.xlabel("Total Number of Order")
 plt.ylabel("Return Reason")
 plt.show()
 
-# 17. Most common refund statuses
+# 18. Most common refund statuses
 category = df18["refund_status"]
 value = df18["order_count"]
 plt.barh(category, value)
