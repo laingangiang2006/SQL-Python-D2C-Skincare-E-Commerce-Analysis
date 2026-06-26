@@ -47,10 +47,10 @@ This is the storytelling infographic, designed in Canva to communicate insights 
 |------|--------------|
 | [README.md](https://github.com/laingangiang2006/D2C-Skincare-E-Commerce-Analytics/blob/main/README.md) | Project documentation |
 | [Dataset](https://github.com/laingangiang2006/D2C-Skincare-E-Commerce-Analytics/tree/main/Dataset) | Datasets downloaded from Kaggle |
-| [Relationship Diagram](https://github.com/laingangiang2006/D2C-Skincare-E-Commerce-Analytics/tree/main/Relationship%20Diagram) | Relationship Diagram (mwb file, pdf file) |
+| [Relationship Diagram](https://github.com/laingangiang2006/D2C-Skincare-E-Commerce-Analytics/tree/main/Relationship%20Diagram) | Relationship diagram (mwb file, pdf file) |
 | [SQL Queries](https://github.com/laingangiang2006/D2C-Skincare-E-Commerce-Analytics/blob/main/Skincare_Analysis.sql) | SQL queries |
 | [CSV Files](https://github.com/laingangiang2006/SQL-D2C-Skincare-E-Commerce-Analysis/tree/main/CSV%20Files) | CSV files exported from MySQL |
-| [Python Notebook](https://github.com/laingangiang2006/SQL-D2C-Skincare-E-Commerce-Analysis/blob/main/Python%20Notebook.py) | Python Notebook |
+| [Python Notebook](https://github.com/laingangiang2006/SQL-D2C-Skincare-E-Commerce-Analysis/blob/main/Python%20Notebook.py) | Python notebook |
 | [Figures](https://github.com/laingangiang2006/SQL-Python-D2C-Skincare-E-Commerce-Analysis/tree/main/Figures) | Figures created by Python |
 | [Infographic](https://github.com/laingangiang2006/SQL-Python-D2C-Skincare-E-Commerce-Analysis/blob/main/D2C%20Skincare%20E-Commerce%20Analysis%20Infographic.pdf) | Infographic (pdf file) |
 
@@ -64,7 +64,7 @@ If you don't want to run and check my code locally, you can check it through my 
 |------|---------|
 | **SQL, MySQL** | Relational database queries + Relationship diagram creation |
 | **VSCode** | Text edittor |
-| **Python and Python Libraries (Pandas, Matplotlib, Seaborn)** | Data Analysis, chart creation |
+| **Python and Python Libraries (Pandas, Matplotlib, Seaborn)** | Data analysis, chart creation |
 | **Canva** | Chart visualization and infographic creation |
 
 ---
