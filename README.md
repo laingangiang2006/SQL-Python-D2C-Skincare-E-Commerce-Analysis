@@ -2,7 +2,7 @@
 
 The core question needed to be answer in this project is: 
 
-> How do Starbucks customers order across digital and physical channels, and what patterns emerge by product, time, and behaviour?
+> How is this D2C skincare business performing across customers, products, sales, and returns, and where are the opportunities to improve?
 
 ---
 
