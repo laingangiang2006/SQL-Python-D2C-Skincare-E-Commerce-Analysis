@@ -62,10 +62,12 @@ This is the storytelling infographic, designed in Canva to communicate insights 
 
 | Tool/Language | Purpose |
 |------|---------|
-| **SQL, MySQL** | Relational database queries + Relationship diagram creation |
-| **VSCode** | Text edittor |
-| **Python and Python Libraries (Pandas, Matplotlib, Seaborn)** | Data analysis, chart creation |
-| **Canva** | Chart visualization and infographic creation |
+| **Excel** | Data cleaning, data analysis, and visualization |
+| **VSCode** | Text editor |
+| **Python & Python Libraries (Pandas, NumPy, Matplotlib, Seaborn)** | Data manipulation, analysis, and visualization |
+| **Kaggle Dataset** | Source of publicly available datasets for analysis |
+| **Kaggle Notebook** | Cloud-based notebook environment for data analysis and visualization |
+| **Canva** | Chart and infographic design |
 
 ---
 
