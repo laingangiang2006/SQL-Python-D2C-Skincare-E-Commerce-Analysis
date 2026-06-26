@@ -35,9 +35,9 @@ The datasets are uploaded by [Kaushal Chanchadiya on Kaggle](https://www.kaggle.
 
 This is the storytelling infographic, designed in Canva to communicate insights derived from SQL- and Python-based analysis, including functions, pivot tables, and pivot charts.
 
-<img width="1920" height="1080" alt="D2C Skincare E-Commerce Analysis Infographic" src="https://github.com/user-attachments/assets/9034840e-8aa4-4872-beea-0c873c96514b" />
+<img width="1920" height="1080" alt="D2C Skincare E-Commerce Analysis Infographic" src="https://github.com/user-attachments/assets/4dafc63a-523f-4baf-9bb5-c1e234da25c8" />
 
-> Alternatively, you can view the diagram by downloading this pdf [infographic](https://github.com/laingangiang2006/SQL-Python-D2C-Skincare-E-Commerce-Analysis/blob/main/D2C%20Skincare%20E-Commerce%20Analysis%20Infographic.png) or viewing in [Canva](https://canva.link/7nsyfusoz4vfptc).
+> Alternatively, you can view the diagram by downloading this pdf [infographic](https://github.com/laingangiang2006/SQL-Python-D2C-Skincare-E-Commerce-Analysis/blob/main/D2C%20Skincare%20E-Commerce%20Analysis%20Infographic.pdf) or viewing in [Canva](https://canva.link/7nsyfusoz4vfptc).
 
 ---
 
@@ -52,7 +52,7 @@ This is the storytelling infographic, designed in Canva to communicate insights 
 | [CSV Files](https://github.com/laingangiang2006/SQL-D2C-Skincare-E-Commerce-Analysis/tree/main/CSV%20Files) | CSV files exported from MySQL |
 | [Python Notebook](https://github.com/laingangiang2006/SQL-D2C-Skincare-E-Commerce-Analysis/blob/main/Python%20Notebook.py) | Python Notebook |
 | [Figures](https://github.com/laingangiang2006/SQL-Python-D2C-Skincare-E-Commerce-Analysis/tree/main/Figures) | Figures created by Python |
-| [Infographic](https://github.com/laingangiang2006/SQL-Python-D2C-Skincare-E-Commerce-Analysis/blob/main/D2C%20Skincare%20E-Commerce%20Analysis%20Infographic.png) | Infographic (pdf file) |
+| [Infographic](https://github.com/laingangiang2006/SQL-Python-D2C-Skincare-E-Commerce-Analysis/blob/main/D2C%20Skincare%20E-Commerce%20Analysis%20Infographic.pdf) | Infographic (pdf file) |
 
 If you don't want to run and check my code locally, you can check it through my [Kaggle notebook](https://www.kaggle.com/code/laingangiang2006/d2c-skincare-e-commerce-analysis).
 
