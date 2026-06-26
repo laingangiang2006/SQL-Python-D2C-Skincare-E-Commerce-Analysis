@@ -35,7 +35,7 @@ The datasets are uploaded by [Kaushal Chanchadiya on Kaggle](https://www.kaggle.
 
 This is the storytelling infographic, designed in Canva to communicate insights derived from SQL- and Python-based analysis, including functions, pivot tables, and pivot charts.
 
-<img width="1920" height="1080" alt="D2C Skincare E-Commerce Analysis Infographic" src="https://github.com/user-attachments/assets/f4275651-7bfb-4b73-b6cb-7f877b03eb45" />
+<img width="21042" height="8008" alt="D2C Skincare E-Commerce Analysis Infographic" src="https://github.com/user-attachments/assets/917a3455-8f81-42cb-8eff-99d54e7003d6" />
 
 > Alternatively, you can view the diagram by downloading this pdf [infographic](https://github.com/laingangiang2006/SQL-Python-D2C-Skincare-E-Commerce-Analysis/blob/main/D2C%20Skincare%20E-Commerce%20Analysis%20Infographic.pdf) or viewing in [Canva](https://canva.link/7nsyfusoz4vfptc).
 
