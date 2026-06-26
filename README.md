@@ -54,7 +54,7 @@ This is the storytelling infographic, designed in Canva to communicate insights 
 | [Figures](https://github.com/laingangiang2006/SQL-Python-D2C-Skincare-E-Commerce-Analysis/tree/main/Figures) | Figures created by Python |
 | [Infographic](https://github.com/laingangiang2006/SQL-Python-D2C-Skincare-E-Commerce-Analysis/blob/main/D2C%20Skincare%20E-Commerce%20Analysis%20Infographic.pdf) | Infographic (pdf file) |
 
-If you don't want to run and check my code locally, you can check it through my [Kaggle notebook](https://www.kaggle.com/code/laingangiang2006/d2c-skincare-e-commerce-analysis).
+> If you don't want to run and check my code locally, you can check it through my [Kaggle notebook](https://www.kaggle.com/code/laingangiang2006/d2c-skincare-e-commerce-analysis).
 
 ---
 
