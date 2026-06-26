@@ -1,8 +1,19 @@
 # D2C Skincare E-Commerce Analysis
 
+This project, which is a mix of an exploratory data analysis and business performance analysis, uses SQL and Python to analyze a D2C skincare e-commerce business across customers, products, sales, and returns to identify performance trends and areas for improvement.
+
 The core question needed to be answer in this project is: 
 
 > How is this D2C skincare business performing across customers, products, sales, and returns, and where are the opportunities to improve?
+
+---
+
+## Type of Analysis
+
+| Type of Analysis | Description |
+| --- | --- |
+| **Exploratory Data Analysis (EDA)** | Examines the dataset across customers, products, orders, reviews, and returns |
+| **Business Performance Analysis** | Evaluates sales, return rates, and customer behavior to identify opportunities for improvement |
 
 ---
 
