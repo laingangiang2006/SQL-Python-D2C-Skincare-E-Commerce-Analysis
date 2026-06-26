@@ -33,7 +33,7 @@ The datasets are uploaded by [Kaushal Chanchadiya on Kaggle](https://www.kaggle.
 
 ## Infographic
 
-This is my storytelling infographic, created on Canva, after querying by SQL, and visualize charts by Python.
+This is the storytelling infographic, designed in Canva to communicate insights derived from SQL- and Python-based analysis, including functions, pivot tables, and pivot charts.
 
 <img width="1920" height="1080" alt="D2C Skincare E-Commerce Analysis Infographic" src="https://github.com/user-attachments/assets/9034840e-8aa4-4872-beea-0c873c96514b" />
 
