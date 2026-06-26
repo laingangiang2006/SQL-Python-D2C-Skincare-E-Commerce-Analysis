@@ -8,15 +8,6 @@ The core question needed to be answer in this project is:
 
 ---
 
-## Type of Analysis
-
-| Type of Analysis | Description |
-| --- | --- |
-| **Exploratory Data Analysis (EDA)** | Examines the dataset across customers, products, orders, reviews, and returns |
-| **Business Performance Analysis** | Evaluates sales, return rates, and customer behavior to identify opportunities for improvement |
-
----
-
 ## Dataset Overview
 
 This synthetic dataset simulates the operations of a Direct-to-Consumer (D2C) skincare e-commerce business. It is designed specifically for SQL, Power BI, Tableau, Python, and business analytics projects.
@@ -31,6 +22,15 @@ The dataset contains relational business data covering:
 - returns
 
 The datasets are uploaded by [Kaushal Chanchadiya on Kaggle](https://www.kaggle.com/datasets/kaushalvyas16/d2c-skincare-e-commerce-analytics-dataset).
+
+---
+
+## Type of Analysis & Explaination
+
+| Type of Analysis | Description |
+| --- | --- |
+| **Exploratory Data Analysis (EDA)** | Examines the dataset across customers, products, orders, reviews, and returns |
+| **Business Performance Analysis** | Evaluates sales, return rates, and customer behavior to identify opportunities for improvement |
 
 ---
 
